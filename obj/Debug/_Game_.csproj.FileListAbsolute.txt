@@ -1,0 +1,15 @@
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\bin\Debug\_Game_.exe.config
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\bin\Debug\_Game_.exe
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\bin\Debug\_Game_.pdb
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\obj\Debug\_Game_.csprojAssemblyReference.cache
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\obj\Debug\_Game_.csproj.CoreCompileInputs.cache
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\obj\Debug\_Game_.exe
+E:\תכנות מונחה עצמים\מעבדה\16_11\_Game_\_Game_\obj\Debug\_Game_.pdb
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\bin\Debug\_Game_.exe.config
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\bin\Debug\_Game_.exe
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\bin\Debug\_Game_.pdb
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\obj\Debug\_Game_.csproj.AssemblyReference.cache
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\obj\Debug\_Game_.csproj.SuggestedBindingRedirects.cache
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\obj\Debug\_Game_.csproj.CoreCompileInputs.cache
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\obj\Debug\_Game_.exe
+C:\Users\liron\Desktop\college B\OOP\_Game_\_Game_\obj\Debug\_Game_.pdb
